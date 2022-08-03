@@ -28,8 +28,12 @@
             <section class="fade-in">
                 <div class="content">
                     <h1>Kia ora</h1>
-                    <p class="intro"><strong>Federation</strong> offer a high level of website expertise, drawing on vast knowledge in the website design and development space. No brief is the same, but we ensure the final product is needs driven, working to best practice principles to ensure each project caters to unique key objectives.</p>
-                    <p class="intro">We’ve designed and developed multiple websites ranging from regional development based platforms right through to high end solutions with e-commerce functionality. While many aspects will vary across web projects, we believe your website is the heart of your brand presence and that the look and feel of your site needs to truly reflect your brand in the best and most accurate way possible.</p>
+                    <p class="intro">These are exciting times for TSB. As the banking world gets more complicated, there is a real opportunity for you to challenge the conventions of the category. Below is a thought-provoking piece on the power of simplifying banking.</p>
+                </div>            
+            </section>
+            <section class="fade-in">
+                <div class="content">
+                    <h2>Manifesto</h2>
                     <img src="./images/placeholder-1400x606.png" alt="Placeholder for video" title="Placeholder for video">
                 </div>            
             </section>
@@ -40,16 +44,17 @@
                     <a class="button" href="https://google.com/" target="_blank" title="">Click me</a>
                 </div>            
             </section>
-            <section class="pattfade-inern">
+            <section class="fade-in">
                 <div class="content">
-                    <h2>Creative</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, velit mollitia explicabo ipsum est aliquid numquam eaque, facere illo aperiam optio aut repudiandae dolorum magni corrupti iusto cupiditate minima expedita.</p>                
+                    <h2>We believe in the genius of simple</h2>
+                    <p>The simple solutions are always the best. Chipping away the things that aren’t essential can make your customers lives easier. But simple requires a commitment to doing different. Simple requires smarts. Below is a body of work that talks to the value of being brilliant and simple. </p>                
                     <a class="button" href="https://google.com/" target="_blank" title="">Click me</a>
                 </div>            
             </section>
             <section class="fade-in">
                 <div class="content">
                     <p class="h1">Ngā mihi nui</p>
+                    <p>Sharon, Tony and the team would love the chance to collaborate with your team to build an enduring brand positioning and platform. We look forward to talking more.</p>
                 </div>
             </section>
         </div>        
