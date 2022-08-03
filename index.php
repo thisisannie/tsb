@@ -29,7 +29,7 @@
                 <div class="content">
                     <h1>Kia ora</h1>
                     <p class="intro">These are exciting times for TSB. As the banking world gets more complicated, there is a real opportunity for you to challenge the conventions of the category. Below is a thought-provoking piece on the power of simplifying banking.</p>
-                </div>            
+                </div>
             </section>
             <section class="fade-in">
                 <div class="content">
@@ -50,7 +50,7 @@
                             <path d="M113.68,346.64v-43.12H43.12V43.12h283.36v260.4h-70.56v43.12H369.6V0H0v346.64H113.68z"/>
                             <path d="M206.64,448.56V226.24h-43.68v223.44l-53.76-54.32l-30.8,30.8L184.24,532l105.84-105.84l-30.24-30.8L206.64,448.56z"/>
                         </svg></a>
-                </div>            
+                </div>
             </section>
             <section class="fade-in">
                 <div class="content">
@@ -63,7 +63,7 @@
                             <path d="M206.64,448.56V226.24h-43.68v223.44l-53.76-54.32l-30.8,30.8L184.24,532l105.84-105.84l-30.24-30.8L206.64,448.56z"/>
                         </svg>
                     </a>
-                </div>            
+                </div>
             </section>
             <section class="fade-in">
                 <div class="content">
@@ -71,7 +71,7 @@
                     <p>Sharon, Tony and the team would love the chance to collaborate with your team to build an enduring brand positioning and platform. We look forward to talking more.</p>
                 </div>
             </section>
-        </div>        
+        </div>
     </div>
     <script src="./js/custom.js"></script>
 </body>
