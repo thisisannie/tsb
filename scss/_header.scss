@@ -1,26 +1,45 @@
 header {
-	background-image: url(../images/banner.webp);
-	background-size: cover;
-	background-position: center bottom;
+	position: relative;
 	min-height: 100vh;
 	.logo {
 		padding: 30px;
 		display: inline-block;
-    filter: drop-shadow(0px 0px 9px #031d4d66);
+		position: fixed;
 		&.logo-tsb {
-			max-width: calc(50% - 60px);
+			position: fixed;
+			top: -6px;
+			left: 0;
+			max-width: calc(43% - 60px);
 			img {
-				width: 192px;
+				width: 145px;
 			}
 		} 
 		&.logo-fed {
-			max-width: calc(50% - 60px);
-			float: right;
+			position: fixed;
+			max-width: calc(57% - 60px);
+			top: 0;
+			right: 0;
 			img {
 				width: 192px;
 			}
 		}
 	}
+	.bs {
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		width: 520px;
+		transform: translate(-50%, -50%);
+	}
+	.divider {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		transform: translate(0, 44%);
+		width: 100%;
+		z-index: 10;
+	}
+	
 	#arrow-down {
     position: absolute;
     left: calc(50% - 40px);

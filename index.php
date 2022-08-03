@@ -16,11 +16,13 @@
     <div class="container">
         <header>
             <a class="logo logo-tsb" href="https://federation.net.nz" target="_blank">
-                <img src="./images/logos/federation-logo-white.svg" alt="Federation logo" title="Federation">
+                <img src="./images/logos/tsb.svg" alt="TSB logo" alt="TSB logo" title="TSB">
             </a>
             <a class="logo logo-fed" href="https://federation.net.nz" target="_blank">
                 <img src="./images/logos/federation-logo-white.svg" alt="Federation logo" title="Federation">
             </a>
+            <img src="./images/divider.webp" alt="" class="divider">
+            <img src="./images/logos/BS_logo.webp" alt="Brilliantly Simple" class="bs">
             <div id="arrow-down"></div>
         </header>
         <section>
