@@ -23,7 +23,6 @@
             </a>
             <img src="./images/divider.webp" alt="" class="divider">
             <img src="./images/logos/BS_logo.webp" alt="Brilliantly Simple" class="bs">
-            <div id="arrow-down"></div>
         </header>
         <section>
             <div class="content">

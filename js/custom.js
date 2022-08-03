@@ -1,9 +1,3 @@
-// on arrow down click, scroll to first section
-document.addEventListener('click', function (event) {
-	if (!event.target.matches('#arrow-down')) return;
-	document.querySelector('section').scrollIntoView({behavior: 'smooth'});
-}, false);
-
 // animate patterend sections on scroll into view
 const callback = (entries) => 
   entries.forEach(entry => 
