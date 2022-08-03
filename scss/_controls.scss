@@ -2,16 +2,29 @@
 	display: inline-block;
 	border: 2px $green solid;
 	border-radius: 100px;
-	padding: 12px 40px 8px;
+	padding: 2px 20px 10px;
 	background-color: $green;
 	color: white;
 	text-decoration: none;
 	font-size: 15px;
 	text-transform: uppercase;
 	transition: all 0.3s ease;
+	svg {
+		width: 17px;
+    position: relative;
+    top: 10px;
+    padding-left: 8px;
+		path {
+				fill: white;
+				transition: all 0.3s ease;
+			}
+		}
 	&:hover {
-		background-color: $navy;
+		background-color: $pink;
 		color: $green;
 		cursor: pointer;
+		path {
+			fill: $green;
+		}
 	}
 }
