@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/styles.css">
-    <link rel="icon" type="image/png" href="http://example.com/favicon.png">
+    <link rel="icon" type="image/png" href="./favicon.png">
 </head>
 <body>
     <div class="container">
@@ -34,8 +34,10 @@
             <section class="fade-in">
                 <div class="content">
                     <h2>Manifesto</h2>
-                    <img src="./images/placeholder-1400x606.png" alt="Placeholder for video" title="Placeholder for video">
-                </div>            
+                    <div class="video-container">
+                        <iframe id="video-menifesto" src="https://www.youtube.com/embed/0hyjhOvtao8?playsinline=0&rel=0" allowfullscreen></iframe>
+                    </div>
+                </div>
             </section>
             <section class="fade-in">
                 <div class="content">
