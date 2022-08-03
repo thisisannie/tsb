@@ -30,6 +30,7 @@ header {
 		left: 50%;
 		width: 520px;
 		transform: translate(-50%, -50%);
+    max-width: calc(100% - 60px);
 	}
 	.divider {
 		position: absolute;

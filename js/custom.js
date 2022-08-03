@@ -5,5 +5,5 @@ const callback = (entries) =>
   );
 
 const observer = new IntersectionObserver(callback);
-const animate = document.querySelectorAll('.pattern');
+const animate = document.querySelectorAll('.fade-in');
 animate.forEach(div => observer.observe(div));

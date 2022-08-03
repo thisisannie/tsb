@@ -1,28 +1,16 @@
+.page {
+	position: relative;
+	padding-top: 15%;
+	background-color: $pink;
+}
 section {
 	position: relative;
 	padding-top: $spacer-lg;
-	background-color: $pink;
-	&.pattern {
+	&.fade-in {
 		position: relative;
 		top: 50px;
 		opacity: 0.3;
 		transition: all 1.5s ease;
-		&:before {
-			content: "";
-			position: absolute;
-			height: 100%;
-			width: 100%;
-			background-repeat: no-repeat;
-			background-size: 820px;
-			background-position: -820px center;
-			background-image: url('../images/placeholder-1400x606.png');
-			opacity: 0.4;
-			z-index: -1;
-			transition: all 1s ease;
-		}
-		&:nth-child(2n):before {
-			transform: scaleX(-1)
-		}
 		&.show {
 			opacity: 1;
 			top: 0;
