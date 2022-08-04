@@ -2,6 +2,9 @@
 	position: relative;
 	padding-top: 15%;
 	background-color: $pink;
+	@media (max-width: 767px) {
+		padding-top: 20%;
+	}
 }
 section {
 	position: relative;
