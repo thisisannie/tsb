@@ -28,7 +28,7 @@
             <section class="fade-in">
                 <div class="content">
                     <h1>Kia ora</h1>
-                    <p class="intro">These are exciting times for TSB. As the banking world gets more complicated, there is a real opportunity for you to challenge the conventions of the category. Below is a thought-provoking piece on the power of simplifying banking. </p>
+                    <p class="intro">These are exciting times for TSB. As the banking world gets more complicated, there is a real opportunity for you to challenge the conventions of the category. Below is our Manifesto for TSB, proving the Power Player position you can own by simplifying banking for New Zealanders. </p>
                 </div>
             </section>
             <section class="fade-in">
@@ -68,7 +68,8 @@
             <section class="fade-in">
                 <div class="content">
                     <p class="h1">Ngā mihi nui</p>
-                    <p><a href="https://federation.net.nz/" target="_blank">Sharon, Tony and the team</a> would love the chance to collaborate with you to build an enduring brand positioning and platform. We look forward to talking more.</p>
+                    <p>On behalf of <a href="https://federation.net.nz/" target="_blank">everyone at Federation</a>, thank you.</p>
+                    <p>We would love the opportunity to collaborate with you to build an enduring brand positioning and platform for TSB. We look forward to talking more.</p>
                 </div>
             </section>
         </div>
