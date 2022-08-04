@@ -35,7 +35,7 @@
                 <div class="content">
                     <h2>Manifesto</h2>
                     <div class="video-container">
-                        <iframe id="video-menifesto" src="https://www.youtube.com/embed/0hyjhOvtao8?playsinline=0&rel=0" allowfullscreen></iframe>
+                        <iframe id="video-menifesto" src="https://www.youtube.com/embed/p-OxzEZGacQ?playsinline=0&rel=0" allowfullscreen></iframe>
                     </div>
                 </div>
             </section>
@@ -43,7 +43,7 @@
                 <div class="content">
                     <h2>Strategy</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, velit mollitia explicabo ipsum est aliquid numquam eaque, facere illo aperiam optio aut repudiandae dolorum magni corrupti iusto cupiditate minima expedita.</p>                
-                    <a class="button" href="https://google.com/" target="_blank" title="">Download strategy
+                    <a class="button" href="./pdfs/tsb_pitchdoc_strategy_web.pdf" target="_blank" title="">Download strategy
                         
                         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                                 y="0px" viewBox="0 0 369.6 532" style="enable-background:new 0 0 369.6 532;" xml:space="preserve">
@@ -56,7 +56,7 @@
                 <div class="content">
                     <h2>We believe in the genius of simple</h2>
                     <p>The simple solutions are always the best. Chipping away the things that aren’t essential can make your customers lives easier. But simple requires a commitment to doing different. Simple requires smarts. Below is a body of work that talks to the value of being brilliant and simple. </p>                
-                    <a class="button" href="https://google.com/" target="_blank" title="">Download strategy
+                    <a class="button" href="./pdfs/tsb_presso_creative_book_web.pdf" target="_blank" title="">Download creative
                         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                                 y="0px" viewBox="0 0 369.6 532" style="enable-background:new 0 0 369.6 532;" xml:space="preserve">
                             <path d="M113.68,346.64v-43.12H43.12V43.12h283.36v260.4h-70.56v43.12H369.6V0H0v346.64H113.68z"/>
@@ -68,7 +68,7 @@
             <section class="fade-in">
                 <div class="content">
                     <p class="h1">Ngā mihi nui</p>
-                    <p>Sharon, Tony and the team would love the chance to collaborate with your team to build an enduring brand positioning and platform. We look forward to talking more.</p>
+                    <p><a href="https://federation.net.nz/">Sharon, Tony and the team</a> would love the chance to collaborate with your team to build an enduring brand positioning and platform. We look forward to talking more.</p>
                 </div>
             </section>
         </div>
